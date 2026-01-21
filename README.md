@@ -10,7 +10,7 @@
 
 
 ## Skills
-<img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=8&i=arduino,c,cs,cpp,css,dotnet,htmljs,nextjs,py,rust,tailwind,ts,unity" />
+<img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=8&i=arduino,c,cs,cpp,css,dotnet,html,js,nextjs,py,rust,tailwind,ts,unity" />
 <br>
 
 <!-- 
