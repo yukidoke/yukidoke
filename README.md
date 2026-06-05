@@ -26,6 +26,7 @@
 
 - [Twitter](https://x.com/yukidoke_winter)
 - [Zenn](https://zenn.dev/yuki_doke)
+- https://www.yukidoke.net
 <!--
 - [Website](https://yukidoke.github.io)
 -->
